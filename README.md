@@ -3,5 +3,5 @@ Projeto da disciplina de Teoria da Decisão, focado na aplicação de modelos ma
 
 Colaboradores:
 - Rafael Campello
-- Stephanie
+- Stéphanie Barbosa
 - Guilherme Fachinelli
